@@ -1,6 +1,7 @@
 # tool.cg_elimit
 Retrieves the effective value of a cgroup control for a given cgroup or process.
 
+> :exclamation: In SLES and SLES for SAP Applications 15 SP6 `EffectiveMemoryMax`, `EffectiveMemoryHigh` and `EffectiveTasksMax` are available to get the effective limits for a cgroup directly. 
 
 ## Introduction
 
